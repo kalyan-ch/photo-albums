@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "SP Balasubramanyam"
+    },
+    {
+      "id": "c499",
+      "name": "Phillip Kihn"
+    },
+    {
+      "id": "172a",
+      "name": "Milton Zemlak PhD"
+    },
+    {
+      "id": "272d",
+      "name": "Pat Gislason"
+    },
+    {
+      "id": "f170",
+      "name": "Mr. Francisco Tremblay"
+    },
+    {
+      "id": "3192",
+      "name": "Bruce Ortiz"
+    },
+    {
+      "id": "7c12",
+      "name": "Mr. Maxine Treutel"
+    }
+  ],
+  "albums": [
+    {
+      "id": "4252",
+      "title": "Chennai Trip",
+      "userId": "1"
+    },
+    {
+      "id": "5562",
+      "userId": "7c12",
+      "title": "Unbranded Cotton Bike"
+    },
+    {
+      "id": "9bb2",
+      "userId": "c499",
+      "title": "Intelligent Soft Bacon"
+    },
+    {
+      "id": "222c",
+      "userId": "172a",
+      "title": "Handmade Wooden Shirt"
+    },
+    {
+      "id": "944b",
+      "userId": "172a",
+      "title": "Licensed Soft Cheese"
+    },
+    {
+      "id": "fbb7",
+      "userId": "f170",
+      "title": "Rustic Plastic Computer"
+    },
+    {
+      "id": "3c0b",
+      "userId": "1",
+      "title": "Refined Steel Shoes"
+    },
+    {
+      "id": "92d8",
+      "userId": "272d",
+      "title": "Elegant Wooden Shoes"
+    }
+  ],
+  "photos": [
+    {
+      "id": "3f83",
+      "albumId": "4252",
+      "url": "https://loremflickr.com/150/150/abstract?lock=75952"
+    },
+    {
+      "id": "c342",
+      "albumId": "944b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=88432"
+    },
+    {
+      "id": "1b3f",
+      "albumId": "4252",
+      "url": "https://loremflickr.com/150/150/abstract?lock=61947"
+    },
+    {
+      "id": "1b79",
+      "albumId": "222c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=55411"
+    },
+    {
+      "id": "faa6",
+      "albumId": "4252",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49036"
+    },
+    {
+      "id": "8150",
+      "albumId": "222c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33048"
+    },
+    {
+      "id": "6e22",
+      "albumId": "222c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5691"
+    },
+    {
+      "id": "1df7",
+      "albumId": "222c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=25959"
+    },
+    {
+      "id": "7ad3",
+      "albumId": "4252",
+      "url": "https://loremflickr.com/150/150/abstract?lock=46303"
+    },
+    {
+      "id": "e895",
+      "albumId": "3c0b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=16751"
+    },
+    {
+      "id": "3f52",
+      "albumId": "3c0b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=39421"
+    },
+    {
+      "id": "6716",
+      "albumId": "3c0b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=60684"
+    },
+    {
+      "id": "acbc",
+      "albumId": "3c0b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=83188"
+    },
+    {
+      "id": "18cc",
+      "albumId": "9bb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=18506"
+    },
+    {
+      "id": "7553",
+      "albumId": "9bb2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=25048"
+    }
+  ]
+}
